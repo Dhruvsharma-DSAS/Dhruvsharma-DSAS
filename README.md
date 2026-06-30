@@ -153,25 +153,6 @@ const dhruv = {
 
 ---
 
-## 📊 github_analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruvsharma-DSAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvsharma-DSAS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvsharma-DSAS&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Dhruvsharma-DSAS/Dhruvsharma-DSAS/output/snake.svg" alt="snake animation" />
-
-</div>
-
----
-
 ## 🏆 achievements
 
 - 🥇 **IMC Prosperity 4 — Finalist Crew 2026** (global algorithmic trading competition)
