@@ -14,21 +14,21 @@
 
 ```javascript
 
-  name        : "Dhruv Sharma",
-  alias       : "Dhruvsharma-DSAS",
-  education   : "B.Tech, Artificial Intelligence & Machine Learning",
-  university  : "Newton School of Technology x Ajeenkya D Y Patil University",
-  year        : "2nd Year",
-  currently   : "frontend Developer Intern @ Unified Mentor",
-  mindset     : "Builder-first. Product-aware. Impact-driven.",
-  focus       : [
+  Name        : "Dhruv Sharma",
+  Alias       : "Dhruvsharma-DSAS",
+  Education   : "B.Tech, Artificial Intelligence & Machine Learning",
+  University  : "Newton School of Technology x Ajeenkya D Y Patil University",
+  Year        : "2nd Year",
+  Currently   : "frontend Developer Intern @ Unified Mentor",
+  Mindset     : "Builder-first. Product-aware. Impact-driven.",
+  Focus       : [
                   "AI-Driven Automation",
                   "Agentic Workflows (n8n)",
                   "Full-Stack Web Development",
                   "Algorithmic / Quant Problem Solving"
                 ],
-  learning    : ["LangChain", "Linux internals", "Advanced agentic systems"],
-  openTo      : ["Internships", "Hackathons", "Collaborations", "Research"],
+  Learning    : ["LangChain", "Linux internals", "Advanced agentic systems"],
+  OpenTo      : ["Internships", "Hackathons", "Collaborations", "Research"],
 
 ```
 
