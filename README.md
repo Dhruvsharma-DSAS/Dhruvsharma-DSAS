@@ -13,14 +13,13 @@
 ## 🧬 identity
 
 ```javascript
-const dhruv = {
+
   name        : "Dhruv Sharma",
   alias       : "Dhruvsharma-DSAS",
-  role        : "AI Automation Builder — not just a coder",
   education   : "B.Tech, Artificial Intelligence & Machine Learning",
   university  : "Newton School of Technology x Ajeenkya D Y Patil University",
   year        : "2nd Year",
-  currently   : "Software Engineering Intern @ Unified Mentor",
+  currently   : "frontend Developer Intern @ Unified Mentor",
   mindset     : "Builder-first. Product-aware. Impact-driven.",
   focus       : [
                   "AI-Driven Automation",
@@ -30,7 +29,7 @@ const dhruv = {
                 ],
   learning    : ["LangChain", "Linux internals", "Advanced agentic systems"],
   openTo      : ["Internships", "Hackathons", "Collaborations", "Research"],
-};
+
 ```
 
 > _"Every inefficiency is a startup waiting to be built."_
