@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Dhruv%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Automation%20Builder%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Quant%20Tinkerer&descAlignY=56&descSize=18" />
 
 <a href="https://github.com/Dhruvsharma-DSAS">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Automate+the+manual.+Report+the+meaningful.;Building+AI+agents+%26+full-stack+systems;First-year+B.Tech+AI+%26+ML+%7C+ADYPU;Open+to+internships%2C+hackathons+%26+collabs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Automate+the+manual.+Report+the+meaningful.;Building+AI+agents+%26+full-stack+systems;Secound-year+B.Tech+AI+%26+ML+%7C+ADYPU;Open+to+internships%2C+hackathons+%26+collabs" alt="Typing SVG" />
 </a>
 
 </div>
