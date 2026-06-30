@@ -1,22 +1,18 @@
-<!-- =============================================================== -->
-<!--  ANIMATED HEADER BANNER                                         -->
-<!--  Edit text / colors directly in the URL below.                  -->
-<!-- =============================================================== -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Dhruv%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Automation%20Builder%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Quant%20Tinkerer&descAlignY=56&descSize=18" />
 
 <a href="https://github.com/Dhruvsharma-DSAS">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Automate+the+manual.+Report+the+meaningful.;Building+AI+agents+%26+full-stack+systems;Secound-year+B.Tech+AI+%26+ML+%7C+ADYPU;Open+to+internships%2C+hackathons+%26+collabs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Automate+the+manual.+Report+the+meaningful.;Building+AI+agents+%26+full-stack+systems;First-year+B.Tech+AI+%26+ML+%7C+ADYPU;Open+to+internships%2C+hackathons+%26+collabs" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## \`{ identity }\`
+## 🧬 identity
 
-\`\`\`javascript
+```javascript
 const dhruv = {
   name        : "Dhruv Sharma",
   alias       : "Dhruvsharma-DSAS",
@@ -35,13 +31,13 @@ const dhruv = {
   learning    : ["LangChain", "Linux internals", "Advanced agentic systems"],
   openTo      : ["Internships", "Hackathons", "Collaborations", "Research"],
 };
-\`\`\`
+```
 
 > _"Every inefficiency is a startup waiting to be built."_
 
 ---
 
-## \`{ flagship_systems }\`
+## 🚀 flagship_systems
 
 <table>
 <tr>
@@ -50,7 +46,7 @@ const dhruv = {
 ### 🤖 AI Student Engagement Platform
 **Automated activity analysis & daily reporting**
 
-\`AI\` \`n8n\` \`Automation\` \`Sentiment Analysis\`
+`AI` · `n8n` · `Automation` · `Sentiment Analysis`
 
 - End-to-end automated student-activity analysis
 - Daily reports with at-risk student flagging
@@ -63,7 +59,7 @@ const dhruv = {
 ### 📈 IMC Prosperity — Algo Trading
 **Quant trading bots · Finalist Crew 2026**
 
-\`Python\` \`Quant\` \`Strategy Optimization\`
+`Python` · `Quant` · `Strategy Optimization`
 
 - Built & iteratively optimized Python trading bots
 - Strategy rewrites driven by historical data
@@ -78,12 +74,12 @@ const dhruv = {
 ### 🌆 Smart-City Weather Dashboard
 **Live weather + "What to Wear" advice engine**
 
-\`JavaScript\` \`APIs\` \`Dashboard\`
+`JavaScript` · `APIs` · `Dashboard`
 
 - Goes beyond temperature → actionable advice
 - e.g. "Bring an umbrella!" when rain &gt; 20%
 - Live API integrations, clean UI
-- [View repo →](https://github.com/Dhruvsharma-DSAS/Smart-City-Weather-Dashboard)
+- <a href="https://github.com/Dhruvsharma-DSAS/Smart-City-Weather-Dashboard">View repo →</a>
 
 </td>
 <td width="50%" valign="top">
@@ -91,10 +87,10 @@ const dhruv = {
 ### 🧠 NeuraX · DrumPlay · Memory Trainer
 **Interactive front-end builds**
 
-\`TypeScript\` \`React\` \`JavaScript\`
+`TypeScript` · `React` · `JavaScript`
 
 - NeuraX — TypeScript application
-- DrumPlay — interactive audio/keyboard app
+- DrumPlay — interactive audio / keyboard app
 - Memory Trainer — cognitive training game
 - Builder.io + hand-rolled components
 
@@ -104,7 +100,7 @@ const dhruv = {
 
 ---
 
-## \`{ tech_stack }\`
+## 🛠️ tech_stack
 
 **Languages**
 
@@ -138,9 +134,9 @@ const dhruv = {
 
 ---
 
-## \`{ architecture_pattern }\`
+## 🧩 architecture_pattern
 
-\`\`\`
+```text
 +---------------------------------------------------------------+
 |              DHRUV'S AUTOMATION-FIRST PATTERN                 |
 +---------------------------------------------------------------+
@@ -153,11 +149,11 @@ const dhruv = {
 |                                                               |
 |   Principle: Automate the manual. Report the meaningful.      |
 +---------------------------------------------------------------+
-\`\`\`
+```
 
 ---
 
-## \`{ github_analytics }\`
+## 📊 github_analytics
 
 <div align="center">
 
@@ -176,16 +172,16 @@ const dhruv = {
 
 ---
 
-## \`{ achievements }\`
+## 🏆 achievements
 
-- 🏆 **IMC Prosperity 4 — Finalist Crew 2026** (global algorithmic trading competition)
+- 🥇 **IMC Prosperity 4 — Finalist Crew 2026** (global algorithmic trading competition)
 - 🎯 **10,000 Aldeas Competition — Semi-Finalist** (top 1,000 innovators)
 - 🦈 GitHub **Pull Shark** & **YOLO** achievement badges
 - 💼 Software Engineering Intern @ **Unified Mentor**
 
 ---
 
-## \`{ philosophy }\`
+## 💡 philosophy
 
 <div align="center">
 
@@ -199,13 +195,15 @@ _"Automate inefficient manual processes — don't just demonstrate concepts."_
 
 ---
 
-## \`{ connect }\`
+## 🔗 connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvsharma-DSAS)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Dhruvsharma-DSAS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Dhruvsharma-DSAS&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="profile views" />
 
